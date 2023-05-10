@@ -28,7 +28,7 @@ while (Intentosrestantes > 0)
     }
     else
     {
-        Console.WriteLine("Has perdido");
+        Console.WriteLine("Has perdido, inténtalo más tarde");
     }
     
 }
